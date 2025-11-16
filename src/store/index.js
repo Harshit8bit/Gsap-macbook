@@ -12,7 +12,11 @@ const useMacbookStore = create((set) =>({
     texture: '/videos/features-1.mp4',
     setTexture: (texture) => set({ texture}),
 
-    reset: () => set({ color: '#2e2c2e' , scale: 0.08 , texture: '/videos/features-1.mp4'}),
+    isModalOpen: false,
+    toggleModal: () => set((state) => ({ isModalOpen: !state.isModalOpen })),
+
+
+    reset: () => set({ color: '#ffffffff' , scale: 0.08 , texture: '/videos/features-1.mp4'}),
 }));
 
-export default useMacbookStore;
+export default useMacbookStore; 

@@ -9,6 +9,7 @@ import Performace from './components/Performace';
 import Features from './components/Features';
 import Highlights from './components/Highlights';
 import Footer from './components/Footer';
+import ProjectModal from './components/ProjectModal';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -23,6 +24,7 @@ function App() {
       <Features/>
       <Highlights/>
       <Footer />
+      <ProjectModal />
     </main>
   )
 }

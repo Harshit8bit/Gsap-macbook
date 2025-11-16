@@ -56,7 +56,7 @@ const ProjectModal = () => {
                
                 <div className="flex items-center gap-6">
                     <a 
-                        href="https://github.com/Harshit8bit/Gsap-macbook" 
+                        href="https://github.com/Harshit8bit/Apple-build" 
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="flex items-center gap-2 text-blue-400 hover:underline"

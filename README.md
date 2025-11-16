@@ -4,7 +4,7 @@ A pixel-perfect, interactive clone of the Apple MacBook Pro product page, built 
 
 ### [Live Demo]() ---
 
-![Project Screenshot](<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/b2cef5b0-eab8-4e76-970f-f35de936d481" />)
+![Project Screenshot]<img width="1919" height="1013" alt="Image" src="https://github.com/user-attachments/assets/b2cef5b0-eab8-4e76-970f-f35de936d481" />
 ## 🚀 About This Project
 
 This is a high-fidelity recreation of Apple's signature product page. It's not just a static website; it's a fully interactive experience that mimics the original's dynamic behavior, from the 3D model viewer to the "magic" scroll-based animations.
